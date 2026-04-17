@@ -1,0 +1,10 @@
+ 5. Algorithm
+➤ Seat Reservation:
+Start
+Display available buses
+Select bus number
+Show available seats
+Enter seat number
+If seat is free → reserve
+Else → show already booked
+Stop
