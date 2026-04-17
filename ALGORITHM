@@ -8,3 +8,10 @@ Enter seat number
 If seat is free → reserve
 Else → show already booked
 Stop
+➤ Ticket Cancellation:
+Start
+Enter bus number & seat number
+Check booking
+Cancel reservation
+Mark seat as available
+Stop
